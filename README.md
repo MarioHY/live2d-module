@@ -1,14 +1,7 @@
 # live2d
 live2d模型收集+展示，可直接用于静态网站
 
-# 展示页面
-* [Live2d Cubism 2](https://imuncle.github.io/live2d)
-* [Live2d Cubism 3](https://imuncle.github.io/live2d/live2d_3)
-
-以上页面国内访问较慢，而模型较大，可以访问以下地址：
-
-* [Live2d Cubism 2](http://119.23.8.25/live2d)
-* [Live2d Cubism 3](http://119.23.8.25/live2d/live2d_3)
+## 仓库相关模型来自于网络，仅用于存储转发分享
 
 目前共计收录**128**个模型。
 
@@ -58,7 +51,7 @@ loadlive2d("live2d", "./model.json");
 ## Live2d Cubism 3
 以上内容都是基于旧的Cubism Editor 2制作与开发，现在官网老早就使用~~Cubism 3了（详见[Cubism 3 | Live2D](https://www.live2d.com/en/products/cubism3)）~~ 已经到了Cubism 4了，不过与Cubism 3是兼容的，而且官方承诺以后的版本都向下兼容（除了Cubism 2）。
 
-Cubism 3使用的是`TypeScript`，相比第二版更加稳健，但我基于[AzurLaneL2DViewer](https://github.com/Yukariin/AzurLaneL2DViewer)这个仓库进行了一些小修改，可像Cubism 2一样直接添加模型，不需要修改核心代码。
+Cubism 3使用的是`TypeScript`，相比第二版更加稳健，源转发作者基于[AzurLaneL2DViewer](https://github.com/Yukariin/AzurLaneL2DViewer)这个仓库进行了一些小修改，可像Cubism 2一样直接添加模型，不需要修改核心代码。
 
 live2d Cubism 3全部文件放在`live2d_3`中，可单独使用。
 
